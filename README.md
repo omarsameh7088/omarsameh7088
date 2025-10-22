@@ -11,7 +11,7 @@
 </p>
 
 <details>
-<summary><strong>🎧 حالياً ببرمج وأنا سامع:</strong></summary>
+<summary><strong>🎧 حالياً ببرمج وأنا سامع صوت النسر الدهبي:</strong></summary>
 <br>
 <a href="https://open.spotify.com/" target="_blank">
   <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing"/>
