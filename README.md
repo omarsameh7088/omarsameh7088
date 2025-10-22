@@ -6,7 +6,7 @@
 <h1>💻 <strong>عمر سامح | Omar Sameh</strong> 💻</h1>
 
 <p>
-مطور مهتم بـ <strong>Python</strong> و<strong>C++</strong> و<strong>JavaScript</strong> و<strong>HTML/CSS</strong> 💡<br>
+مطور مهتم بـ <strong>Python</strong> و<strong>C++</strong> و<strong>JavaScript</strong> و<strong>HTML</strong>و</strong>CSS</strong> 💡<br>
 بيستخدم <strong>Visual Studio Code</strong> كبيئة التطوير المفضلة ✨
 </p>
 
