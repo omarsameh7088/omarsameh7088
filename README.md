@@ -3,9 +3,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h1>👋 مرحبًا، أنا <strong>عمر سامح</strong> | <strong>Omar Sameh</strong></h1>
-<p>💻 مطوّر مهتم بـ <strong>Python</strong> و<strong>C++</strong> و<strong>JavaScript</strong> و<strong>HTML/CSS</strong> 💻<br>
-أستخدم <strong>Visual Studio Code</strong> كبيئة تطويري المفضلة ✨</p>
+<h1>💻 <strong>عمر سامح | Omar Sameh</strong> 💻</h1>
+
+<p>
+مطور مهتم بـ <strong>Python</strong> و<strong>C++</strong> و<strong>JavaScript</strong> و<strong>HTML/CSS</strong> 💡<br>
+بيستخدم <strong>Visual Studio Code</strong> كبيئة التطوير المفضلة ✨
+</p>
 
 <details>
 <summary><strong>🎧 حالياً ببرمج وأنا سامع:</strong></summary>
@@ -33,12 +36,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 
 ```cpp
 // Tools I use - by Omar Sameh
 class AboutMe {
   const char* favoriteIDE = "Visual Studio Code";
   const char* languages[] = { "Python", "C++", "JavaScript", "HTML", "CSS" };
+  const char* designTools[] = { "Canva", "GIMP", "Figma" };
   const char* quote = "الكود النضيف مش مجرد كتابة — ده أسلوب حياة 💡";
 };
