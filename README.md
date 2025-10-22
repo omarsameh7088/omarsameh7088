@@ -6,12 +6,12 @@
 <h1>💻 <strong>عمر سامح | Omar Sameh</strong> 💻</h1>
 
 <p>
-مطور مهتم بـ <strong>Python</strong> و<strong>C++</strong> و<strong>JavaScript</strong> و<strong>HTML</strong>و</strong>CSS</strong> 💡<br>
+مطور مهتم بـ <strong>Python</strong> و<strong>C++</strong> و<strong>JavaScript</strong> و<strong>HTML/CSS</strong> 💡<br>
 بيستخدم <strong>Visual Studio Code</strong> كبيئة التطوير المفضلة ✨
 </p>
 
 <details>
-<summary><strong>🎧 حالياً ببرمج وأنا سامع صوت النسر الدهبي:</strong></summary>
+<summary><strong>🎧 حالياً ببرمج وأنا سامع:</strong></summary>
 <br>
 <a href="https://open.spotify.com/" target="_blank">
   <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing"/>
